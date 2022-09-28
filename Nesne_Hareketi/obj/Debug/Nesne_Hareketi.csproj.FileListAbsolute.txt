@@ -1,0 +1,10 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\bin\Debug\Nesne_Hareketi.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\bin\Debug\Nesne_Hareketi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\bin\Debug\Nesne_Hareketi.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\Nesne_Hareketi\Nesne_Hareketi\obj\Debug\Nesne_Hareketi.frmEkran.resources
